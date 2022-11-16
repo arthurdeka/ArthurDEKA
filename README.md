@@ -1,5 +1,5 @@
 
-<img align="left" alt="DevOps & DevEx Gopher" title="DevOps & DevEx Gopher" src="./assets/gophergif.gif" width="220px"/>
+<img align="left" alt="DevOps & DevEx Gopher" title="DevOps & DevEx Gopher" src="https://media2.giphy.com/media/pmuXt3YfyhOBi63Ijl/giphy.gif" width="220px"/>
 
 <details align="left">
 <summary> <b> <samp> tanx-stack </samp></b></summary>
@@ -15,9 +15,9 @@
 
 </details>
 
-# Hello I'm Tan! 
+# Hello I'm Arthur! 
 
-Software Engineer
+Aspiring Programmer
 
 [DevOps](https://about.gitlab.com/topics/devops/) & [DevEx](https://microsoft.github.io/code-with-engineering-playbook/developer-experience)
 
