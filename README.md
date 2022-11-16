@@ -1,5 +1,5 @@
 
-<img align="left" alt="DevOps & DevEx Gopher" title="DevOps & DevEx Gopher" src="https://media2.giphy.com/media/pmuXt3YfyhOBi63Ijl/giphy.gif" width="220px"/>
+<img align="left" alt="DevOps & DevEx Gopher" title="DevOps & DevEx Gopher" src="https://media2.giphy.com/media/pmuXt3YfyhOBi63Ijl/giphy.gif" width="120px"/>
 
 <details align="left">
 <summary> <b> <samp> tanx-stack </samp></b></summary>
